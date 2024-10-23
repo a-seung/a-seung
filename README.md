@@ -56,6 +56,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />
   <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/jira-0052CC.svg?style=for-the-badge&logo=jira&logoColor=white" />
 </div>
 
 <br>
